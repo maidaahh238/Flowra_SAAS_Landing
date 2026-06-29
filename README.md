@@ -164,18 +164,6 @@ npm run preview
 
 ---
 
-## Deployment (Vercel)
-
-1. Push this repo to GitHub
-2. Go to [vercel.com](https://vercel.com) → **Add New Project**
-3. Import your GitHub repo
-4. Framework preset: **Vite** (auto-detected)
-5. Click **Deploy**
-
-Done — live in ~30 seconds. No environment variables needed.
-
----
-
 ## Design System
 
 | Token | Value | Usage |
@@ -191,22 +179,10 @@ Done — live in ~30 seconds. No environment variables needed.
 
 ---
 
-## Evaluation Criteria Coverage
-
-| Criterion | Weight | What's built |
-|---|---|---|
-| Functionality & UX | 35% | All pages functional, auth works, forms validate, charts interactive |
-| UI/UX Design Quality | 25% | Custom palette, Playfair Display typography, hover animations, dark mode |
-| Component Architecture | 20% | Reusable components, custom hooks, clean separation of data/UI |
-| Responsiveness & Accessibility | 10% | Mobile-first, semantic HTML, aria attributes, focus states |
-| Creativity & Presentation | 10% | Unique design language, floating hero, animated mock UI |
-
----
-
 ## Author
 
 **Maidah Javed**
-Frontend Web Developer Intern · Teyzix Core (June Batch 2026)
+Frontend Web Developer Intern · Teyzix Core
 
 - GitHub: [@maidaahh238](https://github.com/maidaahh238)
 - LinkedIn: [maidah-javed-3667833a4](https://linkedin.com/in/maidah-javed-3667833a4)
