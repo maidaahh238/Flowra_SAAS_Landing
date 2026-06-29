@@ -8,8 +8,6 @@
 
 # Flowra — SaaS Product Landing Page & Customer Onboarding Portal
 
-**Teyzix Core Internship (June Batch) · Task ID: FE-4 · Frontend Web Development**
-
 *A modern, fully responsive SaaS platform frontend — built with React, Vite, and Tailwind CSS.*
 
 </div>
